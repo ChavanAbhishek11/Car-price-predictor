@@ -10,8 +10,13 @@ numpy==1.18.5
 pickle-mixin==1.0.2
 python-dateutil==2.8.1
 pytz==2020.1
-scipy==1.4.1
 six==1.15.0
 sklearn==0.0
 threadpoolctl==2.1.0
 Werkzeug==1.0.1
+click==8.0.3
+colorama==0.4.4
+joblib==1.1.0
+nltk==3.7
+regex==2022.1.18
+tqdm==4.62.3
